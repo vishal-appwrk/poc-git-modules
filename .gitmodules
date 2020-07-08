@@ -1,3 +1,6 @@
 [submodule "pure-sass"]
 	path = pure-sass
 	url = https://github.com/circlehd/pure-sass.git
+[submodule "github-actions-to-ec2-demo-v2"]
+	path = github-actions-to-ec2-demo-v2
+	url = https://github.com/vishal-appwrk/github-actions-to-ec2-demo-v2.git
